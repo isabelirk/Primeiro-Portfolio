@@ -2,6 +2,8 @@ body {
   background-color: #313131;
 }
 
+/*--------------------------------------------------------------------------------*/
+
 .header {
   width: 100%;
   max-width: 900px;
@@ -31,4 +33,46 @@ body {
 .icone {
   width: 34px;
   border-radius: 50%; /*deixar o ícone redondo */
+}
+
+/*--------------------------------------------------------------------------------*/
+
+.main {
+  width: 100%;
+  max-width: 700px;
+  padding: 8px;
+  box-sizing: border-box;
+  margin: 60px auto 0px auto; /* colocando margin no topo do main */
+}
+
+.perfil {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.perfil__foto {
+  width: 100%;
+  max-width: 200px;
+  border-radius: 10%;
+}
+
+.perfil__nome {
+  font-family: "Damion", cursive;
+  font-size: 52px;
+  font-weight: 400;
+  color: #87d0a6;
+  margin: 16px 0;
+}
+
+.perfil__descricao {
+  font-family: "Poppins", sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  color: #f4f4f4;
+  margin: 0;
+  width: 100%;
+  max-width: 500px;
+  text-align: center;
 }
