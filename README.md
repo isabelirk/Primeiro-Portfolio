@@ -7,9 +7,13 @@ Este projeto se refere à construção de um site pessoal (portfólio) desenvolv
 Este site pessoal está divido da seguinte forma:
 
 -> Um header no qual possui os meus perfis no LinkedIn, GitHub e Instagram.
+<img src="" alt="">
 
 -> Uma main, onde coloquei uma foto minha, meu nome e um pequeno texto sobre mim em uma div.
+<img src="" alt="">
 
 -> Logo após, ainda na main, uma section onde é listado alguns certificados de cursos que já conclui.
+<img src="" alt="">
 
 -> E por último, um footer com os créditos da criação do site.
+<img src="" alt="">
